@@ -9,4 +9,4 @@ Then:
 - Open CMD in current directory and run `node -v` and `npm -v`to confirm installation.
 - Run `npm install` to install all dependencies.
 - Run `node index.js`.
-- Navigate to `http://localhost:8090/rest/people` to access this service.
+- Navigate to `http://localhost:3000/rest/people` to access this service.
