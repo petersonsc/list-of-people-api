@@ -1,0 +1,24 @@
+{
+  "name": "list-of-people-api",
+  "version": "1.0.0",
+  "description": "Rest API to Get a List of People",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/petersonsc/list-of-people-api.git"
+  },
+  "keywords": [
+    "API\u001b[D\u001b[D\u001b[DRest",
+    "API"
+  ],
+  "author": "Peterson S Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "unique-random-array": "^1.0.1"
+  }
+}
